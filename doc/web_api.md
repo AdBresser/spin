@@ -1,6 +1,6 @@
 # Web API
 
-The spin_webui daemon offers some web pages, and a REST API that can read and control several aspects of the SPIN software.
+The spin_webui daemon offers a REST API that can read and control several aspects of the SPIN software and some TCPdump related web pages.
 
 - [JSON API Endpoints](#json-api-endpoints)
   - [/spin_api/devices](#spin_apidevices)
